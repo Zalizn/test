@@ -1,0 +1,38 @@
+.section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 1200px;
+  height: 333px;
+  background: #ffffff;
+  border: 8px solid #ededed;
+  border-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.div {
+  display: flex;
+}
+
+.label {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 41px;
+  cursor: pointer;
+  border-radius: 10px;
+  width: 306px;
+  height: 78px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #87d534;
+  color: #ffffff;
+}
+
+.input {
+  display: none;
+  cursor: pointer;
+}
